@@ -1,1 +1,1 @@
-# Bem vindo ao Hub da CRM PipeRun
+# Bem vindo ao GitHub da CRM PipeRun
