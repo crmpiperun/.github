@@ -1,2 +1,1 @@
-# .github
-CRM PipeRun Profile
+# Bem vindo ao Hub da CRM PipeRun
