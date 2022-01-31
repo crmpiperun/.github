@@ -2,5 +2,5 @@
 
 - 🌎 [crmpiperun.com](https://crmpiperun.com/)
 - 🚀 [Realizar Login no Sistema](https://app.pipe.run/)
-- 👩‍💻 [Documentação da API](https://api.pipe.run/)
+- 👩‍💻 [Documentação da API](https://apidocs.pipe.run/)
 - 🌈 [Trabalhe Conosco](https://crmpiperun.com/carreiras/) 
